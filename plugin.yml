@@ -1,0 +1,8 @@
+name: inventory
+main: Main
+version: 0.1
+
+commands:
+ inventory:
+  using: /inventory
+  description: open second inventory
